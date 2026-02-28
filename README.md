@@ -12,11 +12,11 @@
 
 ### At a Glance
 
-Agentic AI & GenAI | Kubernetes | DevSecOps | Secure Cloud Architecture\
-CNAPP, CSPM, CWPP | Cloud Migration | Software Architecture\
-Threat Modeling | Pentesting | Vulnerability Management | SDLC Security\
-GDPR, CCPA, HIPAA, CIS, NIST, SOC 2, ISO 27001, ISO 42001 (AI/ML)\
-Cross-functional teams across **US, Europe, APAC**
+- Agentic AI & GenAI | Kubernetes | DevSecOps | Secure Cloud Architecture
+- CNAPP, CSPM, CWPP | Cloud Migration | Software Architecture
+- Threat Modeling | Pentesting | Vulnerability Management | SDLC Security
+- GDPR, CCPA, HIPAA, CIS, NIST, SOC 2, ISO 27001, ISO 42001 (AI/ML)
+- Cross-functional teams across **US, Europe, APAC**
 
 ---
 
@@ -57,4 +57,3 @@ Cross-functional teams across **US, Europe, APAC**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kulshrestha/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudKul)
-
