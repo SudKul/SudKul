@@ -48,8 +48,7 @@ Cross-functional teams across **US, Europe, APAC**
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SudKul&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudKul&layout=compact&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudKul&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
