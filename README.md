@@ -1,6 +1,6 @@
 # Sudhanshu Kulshrestha
 
-**Senior Cloud Security Engineer | 10+ Years | AWS, Azure, GCP**
+**Senior Cloud (Security) Architect | 10+ Years | AWS, Azure, GCP**
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Architect-4285F4?style=flat&logo=googlecloud&logoColor=white" />
