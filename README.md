@@ -16,7 +16,7 @@
 - CNAPP, CSPM, CWPP | Cloud Migration | Software Architecture
 - Threat Modeling | Pentesting | Vulnerability Management | SDLC Security
 - GDPR, CCPA, HIPAA, CIS, NIST, SOC 2, ISO 27001, ISO 42001 (AI/ML)
-- Cross-functional teams across **US, Europe, APAC**
+- Cross-functional teams across **US, Europe, APAC, and Middle East (Egypt)**
 
 ---
 
