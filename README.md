@@ -15,7 +15,9 @@
 - Agentic AI & GenAI | Kubernetes | DevSecOps | Secure Cloud Architecture
 - CNAPP, CSPM, CWPP | Cloud Migration | Software Architecture
 - Threat Modeling | Pentesting | Vulnerability Management | SDLC Security
-- GDPR, CCPA, HIPAA, CIS, NIST, SOC 2, ISO 27001, ISO 42001 (AI/ML)
+- Proficient in GDPR, CCPA, HIPAA, CIS, NIST, SOC 2, ISO 27001, ISO 42001 (AI/ML) and infrastructure management
+- Cloud strategy, cost optimization, and multi-cloud governance at scale
+- Building and leading high-performing engineering teams; driving cloud adoption roadmaps and P&L accountability
 - Cross-functional teams across **US, Europe, APAC, and Middle East (Egypt)**
 
 ---
