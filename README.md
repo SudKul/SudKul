@@ -1,4 +1,4 @@
-# Sudhanshu Kulshrestha
+# Sudhanshu K
 
 **Senior Cloud (Security) Architect | 10+ Years | AWS, Azure, GCP**
 
